@@ -17,7 +17,7 @@ h2, p2 {
 }
 
 body {
-    overflow: hidden; /*need to crop the moved circles*/
+    overflow: hidden; /*needed to crop the moved circles*/
 }
 
 #circle1, #circle2 {
@@ -34,7 +34,6 @@ body {
 #circle2 {
     top: 55%;
     left: 50%;
-    overflow:hidden;
 }
 
 main {
