@@ -21,6 +21,8 @@ body {
 }
 
 #circle1, #circle2 {
+    width: 100%; /*Needed occupy whole of body */
+    height: 100%;
     position: absolute; /*to take out of flow, then use z-index to bring back */
     z-index:-1;
     
